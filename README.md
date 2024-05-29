@@ -2,7 +2,8 @@
 
 DEVELOPERS:
 
-
+Inga Johnson (ijohnson@willamette.edu)
+[https://](https://sites.google.com/willamette.edu/ijohnson/home?authuser=0)
 
 Erika Roldan (erika.roldan@ma.tum.de)
 https://www.erikaroldan.net/
@@ -10,16 +11,16 @@ https://www.erikaroldan.net/
 
 *** 
 
-DATE: 
+DATE: May 29, 2024
 
 LICENSE: GNU GENERAL PUBLIC LICENSE (see license.txt)
 
 ## Overview
 
+Puzzles with colored cubes ...
+
 ## Acknowledgements
 
-Erika Roldan received funding from the European Union’s Horizon 2020 
-research and innovation program under the Marie Skłodowska-Curie grant agreement No. 754462.
 
 ## Citations
 
