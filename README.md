@@ -3,7 +3,7 @@
 DEVELOPERS:
 
 Inga Johnson (ijohnson@willamette.edu)
-[https://](https://sites.google.com/willamette.edu/ijohnson/home?authuser=0)
+[https://www.willamette.edu/~ijohnson](https://sites.google.com/willamette.edu/ijohnson/home?authuser=0)
 
 Erika Roldan (erika.roldan@ma.tum.de)
 https://www.erikaroldan.net/
